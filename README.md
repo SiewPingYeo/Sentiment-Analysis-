@@ -1,4 +1,4 @@
-# Sentiment-Analysis-for labeled data
+# Sentiment-Analysis-for Labeled Data
 
 This project aims to build a sentiment analyzer based on sentiments of reviews by hotel guests on TripAdvisor. The hotel that we will be looking at will be Row NYC Hotel in New York City. There are a total of 13465 reviews scraped from the website using Selenium (the code can be found on GitHub Repo titled - Scraping TripAdvisor Reviews using Selenium). This repo will focus on labeled data as a base for model training. 
 
